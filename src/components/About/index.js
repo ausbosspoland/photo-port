@@ -9,7 +9,7 @@ function About() {
             <div className="my-2">
                 <p>
                     Pee Poo Poo poo. In hac habitasse platea dictumst. Or whatever Chucky says in that movie.
-                </p>
+            </p>
             </div>
         </section>
     );

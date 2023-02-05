@@ -27,7 +27,7 @@ function App() {
         currentCategory={currentCategory}
         contactSelected={contactSelected}
         setContactSelected={setContactSelected}
-        ></Nav>
+      ></Nav>
       <main>
         {!contactSelected ? (
           <>
